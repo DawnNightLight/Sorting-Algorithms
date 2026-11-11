@@ -6,6 +6,7 @@ The project originated from an interest in understanding the mechanisms behind s
 
 Implemented Algorithms  
 | Algorithm |	Average Time Complexity |	Worst-case Time Complexity |
+| --- | --- | --- |
 | Bubble Sort |	O(n²) |	O(n²) |
 | Selection Sort |	O(n²) |	O(n²) |
 | Insertion Sort |	O(n²) |	O(n²) |
